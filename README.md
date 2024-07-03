@@ -6,3 +6,11 @@ Estos datos son relevantes
 
 ## Objetivo
 Transformar y visulaizar los datos que permitan a los propietarios obtener la información requerida
+
+## Resultado del Análisis
+1. Aumento estación
+  - Las ventas de producción resultaron
+
+2. Bajo rendimiento en la categira de electrónica
+  - Esta categioria ha experimientado una baja producción y venta.
+  [Imss_122022.pdf](https://github.com/user-attachments/files/16076364/Imss_122022.pdf)
