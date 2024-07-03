@@ -15,4 +15,4 @@ Transformar y visulaizar los datos que permitan a los propietarios obtener la in
   - Esta categioria ha experimientado una baja producción y venta.
 
 ### Código utilizado en análisis
-''' SELECT * FROM table '''
+``` SELECT * FROM table ```
