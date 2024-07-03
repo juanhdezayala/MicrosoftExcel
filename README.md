@@ -13,4 +13,6 @@ Transformar y visulaizar los datos que permitan a los propietarios obtener la in
 
 2. Bajo rendimiento en la categira de electrónica
   - Esta categioria ha experimientado una baja producción y venta.
-  [Imss_122022.pdf](https://github.com/user-attachments/files/16076364/Imss_122022.pdf)
+
+### Código utilizado en análisis
+''' SELECT * FROM table '''
